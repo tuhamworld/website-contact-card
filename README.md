@@ -3,6 +3,7 @@
 A mini project showing popular and awesome website with their contact details using React props 
 
 
-by Tunde Abdulhamid Sanusi (Tuham):
+By:
 
-- [@vitejs/plugin-react](https://tuhamworld.vercel.app)
+- [Tunde Abdulhamid Sanusi](https://tuhamworld.vercel.app)
+- [@tuhamworld](https://twitter.com/tuhamworld)
